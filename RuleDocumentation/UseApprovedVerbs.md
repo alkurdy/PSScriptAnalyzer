@@ -4,7 +4,7 @@
 
 ## Description
 
-All CMDLets must used approved verbs.
+All CMDLets must use approved verbs.
 
 Approved verbs can be found by running the command `Get-Verb`.
 
